@@ -1,0 +1,20 @@
+[24-Jan-2018 18:17:19 Europe/Berlin] Config writable 1
+[24-Jan-2018 18:17:19 Europe/Berlin] Config exists 1
+[24-Jan-2018 18:19:28 Europe/Berlin] isConfigFileExists 1
+[24-Jan-2018 18:19:28 Europe/Berlin] configData 
+[24-Jan-2018 18:19:28 Europe/Berlin] Could not connect: Access denied for user 'icehrmuser'@'localhost' (using password: YES)
+[24-Jan-2018 18:19:38 Europe/Berlin] isConfigFileExists 1
+[24-Jan-2018 18:19:38 Europe/Berlin] configData 
+[24-Jan-2018 18:19:38 Europe/Berlin] Could not connect: Access denied for user 'icehrmuser'@'localhost' (using password: YES)
+[24-Jan-2018 18:20:43 Europe/Berlin] isConfigFileExists 1
+[24-Jan-2018 18:20:43 Europe/Berlin] configData 
+[24-Jan-2018 18:20:43 Europe/Berlin] Could not connect: Access denied for user 'icehrmuser'@'localhost' (using password: YES)
+[24-Jan-2018 18:21:01 Europe/Berlin] isConfigFileExists 1
+[24-Jan-2018 18:21:01 Europe/Berlin] configData 
+[24-Jan-2018 18:21:01 Europe/Berlin] Could not connect: Unknown database 'icehrmdb'
+[24-Jan-2018 18:22:20 Europe/Berlin] isConfigFileExists 1
+[24-Jan-2018 18:22:20 Europe/Berlin] configData 
+[24-Jan-2018 18:22:20 Europe/Berlin] Number of tables:0
+[24-Jan-2018 18:22:29 Europe/Berlin] isConfigFileExists 1
+[24-Jan-2018 18:22:29 Europe/Berlin] configData 
+[24-Jan-2018 18:22:29 Europe/Berlin] Number of tables:0
